@@ -1,9 +1,11 @@
 
 # Exercise - Consume a REST service with HttpClient
 
-<h3> Deploy the Parts REST web service </h3>
+<hr>
 
 <br><br>
+
+<h3> Deploy the Parts REST web service </h3>
 
 ```
  git clone https://github.com/microsoftdocs/mslearn-dotnetmaui-consume-rest-services 
