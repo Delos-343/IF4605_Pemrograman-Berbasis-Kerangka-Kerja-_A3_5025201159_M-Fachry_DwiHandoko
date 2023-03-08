@@ -1,8 +1,6 @@
 
 # Exercise - Consume a REST service with HttpClient
 
-<hr>
-
 <br><br>
 
 <h3> Deploy the Parts REST web service </h3>
