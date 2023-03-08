@@ -23,6 +23,8 @@
  bash initenvironment.sh 
 ```
 
-# Legal Notices
+<br><br><br>
+
+# Sign in to the service
 
 <br><br>
