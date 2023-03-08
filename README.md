@@ -2,16 +2,21 @@
 # Exercise - Consume a REST service with HttpClient
 
 <h3> Deploy the Parts REST web service </h3>
+
 ```
-git clone https://github.com/microsoftdocs/mslearn-dotnetmaui-consume-rest-services
+ git clone https://github.com/microsoftdocs/mslearn-dotnetmaui-consume-rest-services 
 ```
+
 <br><br>
+
 ```
-cd mslearn-dotnetmaui-consume-rest-services/src
+ cd mslearn-dotnetmaui-consume-rest-services/src 
 ```
+
 <br><br>
+
 ```
-bash initenvironment.sh
+ bash initenvironment.sh 
 ```
 
 # Legal Notices
